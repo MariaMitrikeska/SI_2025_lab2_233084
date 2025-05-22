@@ -5,7 +5,8 @@
 Индекс: 233084
 
 # 1. Control Flow Graph (CFG)
-![Control Flow Graph](img/grafCfg.png)
+![grafCfg](https://github.com/user-attachments/assets/1375e807-73f8-4a87-8f56-0d9b060905a7)
+![grafCfg](https://github.com/user-attachments/assets/a6074c65-f0e4-4a5a-9711-b31b2768de7e)
 
 # 2. Цикломатска комплексност
 Цикломатска комплексност = број на предикатни јазли (P) + 1 = 6 + 1 = 7
